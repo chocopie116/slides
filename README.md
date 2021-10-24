@@ -6,5 +6,5 @@
 
 # deployed
 github pagesにdeployされてます。deployして更新されない場合はキャッシュクリアしてアクセスしてください。
-- [slide application](https://chocopie116.github.io/slides/20211025_yuruweb.html)
-- [pdf](https://chocopie116.github.io/slides/20211025_yuruweb.pdf)
+- [slide application(例:https://chocopie116.github.io/slides/20211025_yuruweb.html)](https://chocopie116.github.io/slides/20211025_yuruweb.html)
+- [pdf(例:https://chocopie116.github.io/slides/20211025_yuruweb.pdf)](https://chocopie116.github.io/slides/20211025_yuruweb.pdf)
