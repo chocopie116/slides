@@ -13,8 +13,7 @@ paginate: true
 
 # 自己紹介
 
-- エンジニアです
-- 電動キックボード売ってます
+- システム開発と電動モビリティ販売の二足のわらじ
 - 2020 年 U ターンしました
 
 ![bg right:50% brightness:1.1](https://pbs.twimg.com/profile_images/1086212408232706049/YMxbR42c_400x400.jpg)
@@ -33,13 +32,56 @@ paginate: true
 
 ---
 
-# 今年買ってよかったもの勝手に紹介
+# 今年買ってよかったもの
 
 - お家・仕事・健康・子育てなど色々紹介します
 
 ---
 
+#### 40 インチウルトラワイド 5K2K モニター
+
+![bg 70% brightness:1.1](./images/20211221ezozaidan/monitor.gif)
+
+---
+
+#### デスクバイク
+
+## ![bg 66% brightness:1.1](./images/20211221ezozaidan/deskbike.gif)
+
+---
+
+#### 山崎実業 TOWER シリーズ
+
+## ![bg 70% brightness:1.1](./images/20211221ezozaidan/bathroom.gif)
+
+---
+
+#### 山崎実業 TOWER シリーズ
+
+## ![bg 60% brightness:1.1](./images/20211221ezozaidan/senmendai.gif)
+
+---
+
+#### 靴乾燥機
+
+## ![bg right:40% brightness:1.1](./images/20211221ezozaidan/shoesdry.jpeg)
+---
+
+#### 電動鼻水吸引器
+
+## ![bg right:40% brightness:1.1](./images/20211221ezozaidan/hanamizu.jpeg)
+
+---
+#### スポンジ
+## ![bg 50% brightness:1.1](./images/20211221ezozaidan/sponge.jpeg)
+
+---
+#### パーソナルジム
+## ![bg 60% brightness:1.1](./images/20211221ezozaidan/gym.jpeg)
+
+---
+
 # Thank you
 
-- twitter @chocopie116 で絡んでください。
 - ['サウナ', 'キャンプ', 'パパ'].map(s => console.log(`${s}友達募集中`))
+
