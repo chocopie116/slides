@@ -52,7 +52,7 @@ paginate: true
 
 #### 山崎実業 TOWER シリーズ
 
-## ![bg 70% brightness:1.1](./images/20211221ezozaidan/bathroom.gif)
+## ![bg 60% brightness:1.1](./images/20211221ezozaidan/bathroom.gif)
 
 ---
 
@@ -62,7 +62,7 @@ paginate: true
 
 ---
 
-#### 靴乾燥機
+#### 靴乾燥
 
 ## ![bg right:40% brightness:1.1](./images/20211221ezozaidan/shoesdry.jpeg)
 ---
