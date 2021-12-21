@@ -83,5 +83,5 @@ paginate: true
 
 # Thank you
 
-- ['サウナ', 'キャンプ', 'パパ'].map(s => console.log(`${s}友達募集中`))
+- 是非買ってよかったものあれば教えてください。
 
