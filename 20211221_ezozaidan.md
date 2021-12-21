@@ -16,7 +16,7 @@ paginate: true
 - システム開発と電動モビリティ販売の二足のわらじ
 - 2020 年 U ターンしました
 
-![bg right:50% brightness:1.1](https://pbs.twimg.com/profile_images/1086212408232706049/YMxbR42c_400x400.jpg)
+![bg right:50% brightness:1.1](./images/20211221ezozaidan/family.jpeg)
 
 ---
 
