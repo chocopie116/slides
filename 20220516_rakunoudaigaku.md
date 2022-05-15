@@ -1,0 +1,180 @@
+---
+marp: true
+theme: uncover
+footer: "2022-05-16 酪農学園大学 講義 twitter: @chocopie116"
+paginate: true
+---
+
+<!-- 
+_color: white
+-->
+
+# 自分で仕事をつくる話
+
+## @chocopie116
+
+![bg cover brightness:0.4](./images/20220516rakunoudaigaku/zero10x.jpg)
+
+---
+# 突然ですが...
+
+---
+
+# 今日朝ごはんたべた人?
+
+---
+
+# 昨日寝た人？
+
+---
+
+# 卒業後にどんな仕事するかイメージしてる人？
+
+---
+
+
+<!-- 
+_color: white
+-->
+
+# 自分で仕事をつくる話
+
+## @chocopie116
+
+![bg cover brightness:0.4](./images/20220516rakunoudaigaku/zero10x.jpg)
+
+---
+
+# 自己紹介
+
+- 札幌出身育ち、就職で東京
+- 2020年札幌移住(Uターン)
+- 妻・4歳と1歳の娘可愛い🥰
+
+![bg right:46% brightness:1.1](https://pbs.twimg.com/profile_images/1086212408232706049/YMxbR42c_400x400.jpg)
+
+---
+
+# 話すこと
+電動キックボードを販売する仕事をしています。
+どんな経緯で仕事になったのかついて話します
+
+---
+
+<!-- 
+_color: white
+-->
+
+# 電動キックボード知ってる人?
+
+![bg cover brightness:0.4](./images/20220516rakunoudaigaku/zero10x.jpg)
+
+---
+# 電動キックボード
+
+- 電動キックボードとは、モーターとバッテリーを搭載し、省エネ・省スペースを実現した個人用モビリティです。
+- 日本では原動機付自転車に分類され、保安部品を装備することによりナンバーを取得し、公道を走行することができます。
+
+
+![bg right:40% brightness:1.1](./images/20220516rakunoudaigaku/zero10x.jpg)
+
+---
+<!-- 
+_color: white
+-->
+# 仕事をつくるまでの話
+
+![bg brightness:0.4](./images/20220516rakunoudaigaku/zero10x.jpg)
+
+---
+
+# きっかけ
+
+---
+![bg contain brightness:1](./images/20220516rakunoudaigaku/deai.png)
+
+
+---
+![bg contain brightness:1](./images/20220516rakunoudaigaku/first.png)
+
+---
+
+# 白バイに捕まらないか検証したい
+![bg right:40% brightness:1](./images/20220516rakunoudaigaku/shirobai.png)
+
+---
+
+# ここで水を飲みます
+#### (チラッと残り時間を見ます)
+
+---
+# 顧客をさがそう
+---
+
+![bg contain ](./images/20220516rakunoudaigaku/demoshoot.png)
+
+---
+
+![bg contain](./images/20220516rakunoudaigaku/demo.png)
+
+---
+# 小さく検証しよう
+
+---
+
+![bg contain](./images/20220516rakunoudaigaku/testrider.png)
+
+---
+![bg cover](./images/20220516rakunoudaigaku/testrider2.jpg)
+
+---
+
+# 改善を重ねよう
+
+---
+
+![bg contain](./images/20220516rakunoudaigaku/ship.jpg)
+
+---
+![bg cover](./images/20220516rakunoudaigaku/souko5.jpeg)
+
+---
+![bg cover](./images/20220516rakunoudaigaku/souko2.JPG)
+
+---
+
+# 良い波に乗ろう
+
+---
+
+![bg cover](./images/20220516rakunoudaigaku/parco.jpeg)
+
+---
+
+![bg contain](./images/20220516rakunoudaigaku/degawa.png)
+
+---
+
+![bg contain](./images/20220516rakunoudaigaku/television.png)
+
+---
+
+# まとめ
+- 小さく始めて、改善を繰り返したこと
+- 不確実なことも楽しむ
+- 複業でやってたこと
+
+---
+
+# 複業のいいところ
+
+- 報酬を遅延できる
+- 時間を味方につけることができる
+- 本業への相乗効果
+---
+
+# Thank you
+
+- 人生楽しんでください
+- 話しかけてくれると喜びます
+- 陰キャなのでtwitter絡みも嬉しいです
