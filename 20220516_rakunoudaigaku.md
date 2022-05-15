@@ -70,21 +70,8 @@ _color: white
 ![bg cover brightness:0.4](./images/20220516rakunoudaigaku/zero10x.jpg)
 
 ---
-# 電動キックボード
 
-- 電動キックボードとは、モーターとバッテリーを搭載し、省エネ・省スペースを実現した個人用モビリティです。
-- 日本では原動機付自転車に分類され、保安部品を装備することによりナンバーを取得し、公道を走行することができます。
-
-
-![bg right:40% brightness:1.1](./images/20220516rakunoudaigaku/zero10x.jpg)
-
----
-<!-- 
-_color: white
--->
-# 仕事をつくるまでの話
-
-![bg brightness:0.4](./images/20220516rakunoudaigaku/zero10x.jpg)
+![bg cover](./images/20220516rakunoudaigaku/zero10x.gif)
 
 ---
 
@@ -106,6 +93,7 @@ _color: white
 
 # ここで水を飲みます
 #### (チラッと残り時間を見ます)
+###### (スライド半分ぐらい)
 
 ---
 # 顧客をさがそう
