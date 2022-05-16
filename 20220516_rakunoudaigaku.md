@@ -16,22 +16,11 @@ _color: white
 ![bg cover brightness:0.4](./images/20220516rakunoudaigaku/zero10x.jpg)
 
 ---
-# 突然ですが...
+# [質問]
+
+### 卒業後にどんな仕事するかイメージしてる人？
 
 ---
-
-# 今日朝ごはんたべた人?
-
----
-
-# 昨日寝た人？
-
----
-
-# 卒業後にどんな仕事するかイメージしてる人？
-
----
-
 
 <!-- 
 _color: white
@@ -50,6 +39,7 @@ _color: white
 - 札幌出身育ち、就職で東京
 - 2020年札幌移住(Uターン)
 - 妻・4歳と1歳の娘可愛い🥰
+- システムエンジニア
 
 ![bg right:46% brightness:1.1](https://pbs.twimg.com/profile_images/1086212408232706049/YMxbR42c_400x400.jpg)
 
@@ -58,6 +48,7 @@ _color: white
 # 話すこと
 電動キックボードを販売する仕事をしています。
 どんな経緯で仕事になったのかついて話します
+
 
 ---
 
@@ -91,7 +82,8 @@ _color: white
 
 ---
 
-## ここで水を飲みます
+# ここで水を飲む
+
 #### (さりげなく時計を確認)
 ![bg right:60% brightness:1](./images/20220516rakunoudaigaku/water.jpeg)
 
@@ -103,7 +95,7 @@ _color: white
 
 ---
 
-![bg contain](./images/20220516rakunoudaigaku/demo.png)
+![bg cover](./images/20220516rakunoudaigaku/demo.png)
 
 ---
 # 小さく検証しよう
@@ -121,7 +113,7 @@ _color: white
 
 ---
 
-![bg contain](./images/20220516rakunoudaigaku/ship.jpg)
+![bg cover](./images/20220516rakunoudaigaku/ship.jpg)
 
 ---
 ![bg cover](./images/20220516rakunoudaigaku/souko5.jpeg)
@@ -164,5 +156,4 @@ _color: white
 # Thank you
 
 - 人生楽しんでください
-- 話しかけてくれると喜びます
-- 陰キャなのでtwitter絡みも嬉しいです
+- 質問とかあったらtwitterとかでも声かけてください
